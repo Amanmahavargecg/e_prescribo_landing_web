@@ -1,10 +1,8 @@
 <script>
-	// import Counter from './Counter.svelte';
 	import HeroIcon from '$lib/images/heroicon.png';
 	import Pattern1 from '$lib/images/pattern1.svg';
 	import Logo from '$lib/images/logo-white.svg';
 	import Icon from '@iconify/svelte';
-
 	const contentArray1 = [
 		{
 			title: 'Electronic Prescription',
