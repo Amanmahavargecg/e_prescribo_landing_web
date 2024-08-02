@@ -1,17 +1,17 @@
 <script lang="ts">
 	let data = [
 		{
-			title: 'Discover the Power of Our Products',
+			title: 'Discover the Power of E-Prescribo',
 			description:
-				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Quisquam, quod.',
+				'With E-Prescribo, you can experience a new level of convenience and control over your health journey. Our platform is designed to be user-friendly, ensuring that you can easily manage your prescriptions and medical records without hassle.',
 			button: 'Scheldue Appointment',
 			image:
 				'https://images.unsplash.com/photo-1471864190281-a93a3070b6de?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 		},
 		{
-			title: 'Discover the Power of Our Products',
+			title: 'Discover the Power of E-Prescribo',
 			description:
-				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Quisquam, quod. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Quisquam, quod.',
+				'Join us in transforming the future of healthcare. Experience the benefits of E-Prescribo today and take the first step towards a healthier, more organized life.',
 			button: 'Scheldue Appointment',
 			image:
 				'https://images.unsplash.com/photo-1471864190281-a93a3070b6de?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
@@ -40,20 +40,10 @@
 		</h3>
 		<div class="md:w-11/12 mx-auto space-y-3 text-lg">
 			<p>
-				Lorem ipsum dolor, sit amet consectetur adipisicing elit. Inventore ipsum, quam, quia animi
-				minus laudantium voluptates consectetur facilis veritatis at officiis perferendis cum
-				debitis dolor quis quae adipisci laboriosam quo. Lorem ipsum dolor, sit amet consectetur
-				adipisicing elit. Ratione quasi totam corporis sapiente numquam esse fugit iusto deleniti,
-				quam repellat, similique inventore vel! Libero rerum accusamus vel et ea aperiam omnis
-				consequatur laborum dolore eligendi? Eius inventore qui similique soluta quo quas ipsa
-				consequuntur beatae.
+				At E-Prescribo, we are committed to revolutionizing the way you manage your health. Our journey began with a simple yet powerful idea: to make healthcare more accessible, efficient, and personalized through innovative technology.
 			</p>
 			<p>
-				Praesentium obcaecati, a ex sequi blanditiis ducimus. Consectetur nemo sunt molestiae quos,
-				esse voluptatibus expedita, voluptatum distinctio dicta odit quidem animi. Pariatur, tenetur
-				modi cum, odio soluta accusamus mollitia non ullam nobis ab, facere assumenda! Minima dicta
-				aspernatur, quod aperiam dolor repellat delectus maxime, atque voluptatem officia fugit
-				incidunt facere dignissimos magnam! Temporibus, magni dicta.
+				In a world where healthcare systems can often be complex and fragmented, E-Prescribo was created to bridge gaps and simplify the process. We understand that managing prescriptions and medical records can be overwhelming, which is why we've designed our platform to provide a seamless experience for both patients and healthcare providers.
 			</p>
 		</div>
 	</div>

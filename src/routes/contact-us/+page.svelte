@@ -8,7 +8,7 @@
 			<p class="font-medium text-lg text-[#0FC1A7]">Feel Free To Contact Us</p>
 			<h2 class="md:text-4xl text-3xl leading-none font-semibold text-black">Let’s Get in Touch</h2>
 			<p class="text-lg">
-				Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.
+				Experience the benefits of E-Prescribo today and take the first step towards a healthier, more organized life.
 			</p>
 
 			<div class="space-y-4">
