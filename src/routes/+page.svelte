@@ -198,8 +198,7 @@
 	<div class="md:w-4/5 mx-auto">
 		<h1 class="text-4xl font-semibold">Wellness, Compassion, Quality</h1>
 		<p class="text-lg mt-5">
-			They live in Bookmarks grove right at the coast of the Semantics, a large language ocean. A
-			small river named Duden flows by their place and supplies it.
+			We envision a future where healthcare is as straightforward as possible, where technology enhances the quality of care, and where every individual has the tools they need to make informed health decisions.
 		</p>
 
 		<button
