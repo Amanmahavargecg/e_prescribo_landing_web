@@ -13,6 +13,7 @@
 	<section class="flex flex-col items-center justify-center gap-7 max-w-6xl mx-auto w-full px-2">
 		<a href="/" class="flex items-center">
 			<img src={Logo} alt="Logo" class="h-10 md:h-14" />
+			<h1> E-Prescribo </h1>
 		</a>
 		<div class="flex flex-wrap items-center justify-center gap-4">
 			<a href="/contact-us" class="border-2 flex p-3 gap-2 rounded-xl text-white font-semibold">
