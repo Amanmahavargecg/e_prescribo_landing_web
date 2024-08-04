@@ -17,7 +17,7 @@
 		<div class="flex flex-wrap items-center justify-center gap-4">
 			<a href="/contact-us" class="border-2 flex p-3 gap-2 rounded-xl text-white font-semibold">
 				<Icon icon="lucide:send" class="text-white text-2xl" />
-				Take a Appointment
+				Take an Appointment
 			</a>
 			<a
 				href="https://api.whatsapp.com/send?phone=916352100733"

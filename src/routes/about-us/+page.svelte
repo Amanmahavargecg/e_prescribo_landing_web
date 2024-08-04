@@ -9,7 +9,7 @@
 				'https://images.unsplash.com/photo-1471864190281-a93a3070b6de?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 		},
 		{
-			title: 'Discover the Power of E-Prescribo',
+			title: 'Be the part of organized healthcare',
 			description:
 				'Join us in transforming the future of healthcare. Experience the benefits of E-Prescribo today and take the first step towards a healthier, more organized life.',
 			button: 'Scheldue Appointment',

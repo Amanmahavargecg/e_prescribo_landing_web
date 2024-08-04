@@ -69,7 +69,7 @@
 				Your Journey to Better Health Starts Here
 			</p>
 			<button class="w-max mt-7 text-lg font-semibold px-4 py-3 rounded-lg text-white bg-[#0FC1A7]">
-				Discover More
+				Connect with us
 			</button>
 		</div>
 	</div>
@@ -104,10 +104,10 @@
 		>
 			<div class="flex flex-col gap-5 py-10">
 				<h2 class=" text-3xl md:text-4xl font-serif font-semibold text-black">
-					Ready to streamline your prescription management ?
+					Streamline your prescription management ?
 				</h2>
 				<p class="text-lg">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Quisquam, quod.
+					Get ready for fast, cool and hurdle free prescription management
 				</p>
 			</div>
 			<a
@@ -146,11 +146,10 @@
 <section class=" grid md:grid-cols-2 mt-24 items-start gap-14 max-w-6xl mx-auto w-full px-5">
 	<div class="flex flex-col text-left gap-7">
 		<h2 class=" text-3xl md:text-4xl font-serif font-semibold text-black">
-			Discover the Power of Our Products
+			Discover the Power of E-Prescribo
 		</h2>
 		<p class="text-lg">
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Quisquam, quod. Lorem
-			ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod. Quisquam, quod.
+			With E-Prescribo, you can experience a new level of convenience and control over your health journey. Our platform is designed to be user-friendly, ensuring that you can easily manage your prescriptions and medical records without hassle
 		</p>
 		<button
 			class="w-fit text-nowrap h-max text-lg font-semibold px-8 py-2 rounded-full text-white bg-[#0FC1A7]"
@@ -202,7 +201,7 @@
 		<button
 			class="w-fit mt-5 text-nowrap h-max text-lg font-semibold px-6 py-3 rounded-xl text-white bg-[#0FC1A7]"
 		>
-			Take a Appointment
+			Take an Appointment
 		</button>
 	</div>
 </section>
@@ -270,6 +269,7 @@
 					class="w-full px-4 py-2.5 border border-gray-300 rounded-lg"
 				/>
 
+<!--
 				<div class="w-full px-4 py-2.5 border border-gray-300 rounded-lg">
 					<select name="service" id="service" class="w-full outline-none ring-0">
 						<option value="service1">Service 1</option>
@@ -278,6 +278,7 @@
 						<option value="service4">Service 4</option>
 					</select>
 				</div>
+				-->
 
 				<textarea
 					name="message"
