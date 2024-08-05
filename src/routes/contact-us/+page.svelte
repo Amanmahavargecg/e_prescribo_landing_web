@@ -14,7 +14,8 @@
 			<div class="space-y-4">
 				<div class="flex gap-3 text-lg font-medium items-center">
 					<div class="size-7 rounded-full flex items-center justify-center bg-[#0FC1A7]">
-						<Icon icon="ic:sharp-whatsapp" class="text-white text-lg" />
+						<Icon icon="material-symbols:mail" class="text-white text-lg" />
+						<!-- <Icon icon="material-symbols/mail" /> -->
 					</div>
 					<a href="mailto:info@e-prescribo.com" class="hover:text-[#0DA090] transition-colors">
 						info@e-prescribo.com
@@ -38,7 +39,15 @@
 		</div>
 
 		<div class="bg-white rounded-2xl p-8">
-			<form action="" class="flex flex-col gap-5">
+			<form
+				action="https://formsubmit.co/info@e-prescribo.com"
+				method="POST"
+				class="flex flex-col gap-5"
+			>
+				<input type="hidden" name="_next" value="https://yourdomain.co/thanks.html" />
+				<input type="hidden" name="_subject" value="New submission via Contact us!" />
+				<input type="hidden" name="_captcha" value="false" />
+
 				<input
 					type="text"
 					id="name"
