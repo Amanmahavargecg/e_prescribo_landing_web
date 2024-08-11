@@ -37,7 +37,11 @@
     </div>
 
     <div class="bg-white rounded-2xl p-8">
-      <form action="" method="post" class="flex flex-col gap-5">
+      <form action="https://formsubmit.co/info@e-prescribo.com" method="post" class="flex flex-col gap-5">
+      <input type="hidden" name="_next" value="https://yourdomain.co/thanks.html" />
+				<input type="hidden" name="_subject" value="New submission via Contact us!" />
+				<input type="hidden" name="_captcha" value="false" />
+
         <input
           type="text"
           id="name"
