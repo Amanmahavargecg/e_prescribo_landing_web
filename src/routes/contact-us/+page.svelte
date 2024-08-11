@@ -62,6 +62,8 @@
           class="w-full px-4 py-2.5 border border-gray-300 rounded-lg"
           aria-label="Phone"
         />
+
+		<!--
         <div class="w-full px-4 py-2.5 border border-gray-300 rounded-lg">
           <select name="service" id="service" class="w-full outline-none ring-0" aria-label="Service">
             <option value="service1">Service 1</option>
@@ -70,6 +72,8 @@
             <option value="service4">Service 4</option>
           </select>
         </div>
+
+		-->	
         <textarea
           name="message"
           id="message"
